@@ -1,0 +1,264 @@
+.first-page{
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-attachment: fixed;
+    height: 100vh;
+   
+}
+
+.left{
+    text-align: center;
+    float: left;
+    margin-left: 10%;
+    font-size: 99%;
+    margin-top: 1%;
+    
+}
+
+.right{
+    text-align: center;
+    float: right;
+    margin-right: 10%;
+    margin-top: 1.5%;
+    font-size: 71%;
+    align-items: center;
+    
+}
+
+.about{
+    float: left;
+    margin-left: 20px;
+
+}
+
+.services{
+    float: right;
+    margin-left: 20px;
+    
+}
+
+.portfolio{
+    float: right;
+    margin-left: 20px;
+   
+
+}
+
+.contact{
+    float: right;
+    margin-left: 20px;
+}
+
+
+.head{
+    align-items: center;
+    height: 5%;
+    margin-bottom: 10%;
+    font-family: Bold;
+    
+}
+
+.head a{
+
+    color: rgba(255, 255, 255, 0.7);
+}
+.subhead{
+    text-align: center;
+    width: 43%;
+    margin: 13% auto;
+    
+}
+.subhead h1{
+    color: #FFFFFF;
+    font-family: Light;
+    font-size: 260%;
+    margin-bottom: 3%;
+    
+}
+
+.divider{
+    padding: 1px;
+    background-color: #f4623a;
+    width: 8%;
+    margin: 0 auto;
+    opacity: 1;
+    border-top: 1px solid #000000;
+}
+
+.subhead p{
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 77%;
+    margin-top: 4%;
+    margin-bottom: 11%;
+    font-family: lightm;
+}
+
+.subhead a{
+    color: #FFFFFF;
+    font-family: Bold;
+    font-size: 75%;
+    padding: 3% 5% 3%;
+    background-color: #f4623a;
+    border-radius: 50px;
+}
+
+.firstsection{
+    
+    background-color: #f4623a;
+    width: 100%;
+    padding: 9%;
+
+}
+
+#about{
+    width: 40%;
+    text-align: center;
+    margin-left: 31%;
+    color: #FFFFFF;
+  
+}
+
+#about h2{
+    font-family: Light;
+}
+
+.dividersec{
+    background-color: #FFFFFF;
+    height: 2px;
+    width: 12%;
+    border: 0;
+    border-top: 1px solid #000000;
+    margin: 1.5rem auto;
+ 
+}
+
+#about p{
+    font-family: lightm;
+    font-size: 75%;
+    width: 161%;
+    margin-left: -30%;
+    line-height: 1.5;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.75);
+    margin-top: -2%;
+    margin-bottom: 9%;
+}
+
+#about a{
+    font-family: Bold;
+    color: #000000;
+    font-size: 75%;
+    padding: 4% 6% 4%;
+    background-color: #FFFFFF;
+    border-radius: 50px;
+    
+}
+
+.secondsection{
+
+    background-color: #FFFFFF;
+    width: 100%;
+    padding: 9%;
+
+}
+
+i{
+
+    color: #f4623a !important;
+    font-size: 193%;
+    
+}
+
+#services h2,h3{
+    font-family: Light;
+}
+
+.dividerthird{
+    background-color: #f4623a;
+    height: 2px;
+    width: 4.5%;
+    border: 0;
+    border-top: 1px solid #000000;
+    margin: 1.5rem auto;
+}
+
+#services{
+    text-align: center;
+    
+}
+
+.all-iconboxes p{
+    font-family: lightm;
+    color: #6c757d !important;
+    margin-top: 1%;
+    align-items: center;
+    font-size: 71%;
+}
+
+.all-iconboxes h3{
+
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+
+.iconbox{
+    width: 18%;
+    float: left;
+    margin-left: 5%;
+    margin-bottom: 12%;
+}
+
+
+.portfoliobox{
+
+   width:33.3%;
+   float: left;  
+}
+
+.portfoliobox img{
+    width: 100%;
+    vertical-align: bottom;
+}
+
+.fourthsection{
+    clear: both;
+    background-color: #212529;
+    width: 100%;
+    padding: 9%;
+    text-align: center;
+}
+
+.fourthsection h2{
+    color:#FFFFFF;
+    font-family: Light;
+    margin-bottom: 4%;
+}
+
+.fourthsection a{
+    font-family: Medium;
+    color:#000000;
+    padding: 20px;
+    background-color: #FFFFFF;
+    font-size: 65%;
+    border-radius: 50px;
+}
+
+.head a:hover{
+ color: #FFFFFF;
+}
+
+.subhead a:hover{
+    background-color:#cd5433;
+}
+
+#about a:hover{
+
+    background-color: rgb(204, 202, 202);
+}
+
+.fourthsection a:hover{
+    background-color: rgb(204, 202, 202);
+}

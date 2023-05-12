@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: Bold;
+    src: url('../fonts/static/MerriweatherSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: Medium;
+    src: url('../fonts/static/MerriweatherSans-Medium.ttf');
+}
+
+@font-face {
+    font-family: Light;
+    src: url('../fonts/static/MerriweatherSans-Light.ttf');
+}
+
+@font-face {
+    font-family:lightm;
+    src: url('../fonts/merri/Merriweather-Light.ttf');
+}
